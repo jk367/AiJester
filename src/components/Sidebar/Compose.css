@@ -1,0 +1,11 @@
+.compose-btn {
+    background-color: rgba(6, 123, 194, 60%) !important;
+    border: 1px solid #0D6EFD;
+    color: #011627 !important;
+    border-radius: 5%;
+    width: 180px;
+    height: 70px;
+}
+.compose-label {
+    font-size: larger;
+}
